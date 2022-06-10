@@ -1,0 +1,40 @@
+@charset "UTF-8";
+p  {
+  color: darkblue;
+  font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+  font-size: 16px;
+  line-height:18px;
+  width: 600px;
+  background-color: lightblue;
+  padding: 20px;
+}
+.paragraf_2{ color: darkblue; background-color: lightblue;}
+.novi_blok {
+  background-color: lightblue
+  padding: 20px;
+  margin: 20px;
+}
+h1,h2 {
+font-family: Gotham, "Helvetica Neuve", Helvetica, Arial, "sans-serif";
+color: yellow;
+}
+span {color: black}
+.pozadina{
+  background-image: url(slike/plane2.jpeg);
+}
+.drugapozadina {
+  background-color: lightblue;
+}
+a:link {
+  color: black;
+  background-color: yellow;
+  padding: 5px;
+  line-height: 32px;
+  border: 1px solid black;
+}
+a:hover {
+  background-color: antiquewhite;
+}
+img {
+  height: 200px;
+}
